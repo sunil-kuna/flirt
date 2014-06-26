@@ -1,4 +1,4 @@
-var FancyWebSocket = function(url)
+ var FancyWebSocket = function(url)
 {
 	var callbacks = {};
 	var ws_url = url;
